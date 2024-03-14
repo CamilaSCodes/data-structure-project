@@ -14,3 +14,4 @@ This project was undertaken as a component of the Data Structure course, impleme
 * Displaying all users from the selected DDD, performing all three available traversal techniques to search the Tree; 
 * Displaying the complete directory by DDD, sorted by phone number and name.
 
+In addition to the code, the repository includes a PDF report providing comprehensive information and explanations about the developed program. This report elucidates the utilized structures and functions, detailing the rationale behind their incorporation at each developmental stage.
