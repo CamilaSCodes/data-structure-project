@@ -17,4 +17,4 @@ This project was undertaken as a component of the Data Structure course, impleme
 In addition to the code, the repository includes a PDF report providing comprehensive information and explanations about the developed program. This report elucidates the utilized structures and functions, detailing the rationale behind their incorporation at each developmental stage.
 
 ### Technologies
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Code::Blocks Badge](https://img.shields.io/badge/Code%3A%3ABlocks-41AD48?logo=codeblocks&logoColor=fff&style=for-the-badge) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
